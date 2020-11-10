@@ -23,5 +23,6 @@ Vitalisstr. 29
 * Pascal language
 * SQL essentials
 * Python
+* Github skills
 
 [Go to my town](/home/dci/Desktop/anewfolder/CV/town/town.md)
