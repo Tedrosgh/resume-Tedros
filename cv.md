@@ -7,7 +7,7 @@ Vitalisstr. 29
 50827 cologne 
 
 
-![photo](img/tedros.JPG)
+![photo](CV/tedros.jpg)
 
 
 
