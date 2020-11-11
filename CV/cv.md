@@ -7,11 +7,7 @@ Vitalisstr. 29
 50827 cologne 
 
 
-<<<<<<< HEAD
-![photo](CV/tedros.jpg)
-=======
-![photo](tedros.jpg)
->>>>>>> 5c9be2c86fa076cb3159ae87e3d46b221e7fc47f
+![photo](img/photo1.jpg)
 
 
 
@@ -27,6 +23,5 @@ Vitalisstr. 29
 * Pascal language
 * SQL essentials
 * Python
-* Github skills
 
 [Go to my town](/home/dci/Desktop/anewfolder/CV/town/town.md)
