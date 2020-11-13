@@ -25,4 +25,4 @@ Vitalisstr. 29
 * Python
 * Github skills
 
-[Go to my town](/home/dci/Desktop/anewfolder/CV/town/town.md)
+[Go to my town](/CV/town/town.md)
